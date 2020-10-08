@@ -343,7 +343,12 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #343c45b;
+  color: #343c45;
+}
+
+.section-title h3 {
+  color: #034582;
+  font-style: italic;
 }
 
 .section-title h2::before {
@@ -657,7 +662,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #45505b;
+  color: #`;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
